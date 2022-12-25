@@ -1,0 +1,13 @@
+[package]
+name = "get_ref"
+description = "GetRef"
+version = "0.1.0"
+edition = "2021"
+author = "konkitoman"
+repository = "https://github.com/konkitoman/get_ref"
+license = "GPL-3.0"
+keywords = ["get_ref", "tuple"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
